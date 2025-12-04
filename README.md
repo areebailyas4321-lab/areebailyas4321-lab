@@ -24,10 +24,27 @@ I am a passionate developer skilled in building modern, responsive, and user-fri
 
 ## 🌟 Featured Projects
 
-### 🎨 [My Portfolio](https://areeba-portfolio-liart.vercel.app/)
-A personal portfolio website showcasing my skills, projects, and experience. Built with React and modern CSS.
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Online Clock** | A feature-rich online clock with digital/analog modes, stopwatch, countdown, and live weather animations. | ![React](https://img.shields.io/badge/-React-black?logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?logo=vite) | [Live](https://online-clock-self.vercel.app/) • [Code](https://github.com/areebailyas4321-lab/Online_clock) |
+| **College Website** | Comprehensive college website with course listings, student portals, and admin tools. | ![HTML](https://img.shields.io/badge/-HTML-black?logo=html5) ![PHP](https://img.shields.io/badge/-PHP-black?logo=php) | [Live](https://areebailyas4321-lab.github.io/college_interface_website/) • [Code](https://github.com/areebailyas4321-lab/college_interface_website) |
+| **Result Management** | Web app for managing student results, allowing admin uploads and student viewing. | ![PHP](https://img.shields.io/badge/-PHP-black?logo=php) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) | [Live](https://areebailyas4321-lab.github.io/RESULT_MANAGEMENT_SYSTEM/) • [Code](https://github.com/areebailyas4321-lab/RESULT_MANAGEMENT_SYSTEM) |
+| **Malware Detection** | ML project to detect malware in files using advanced algorithms. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![ML](https://img.shields.io/badge/-ML-black) | [Live](https://areebailyas4321-lab.github.io/MALWARE_DETECTION_SYSTEM/) • [Code](https://github.com/areebailyas4321-lab/MALWARE_DETECTION_SYSTEM) |
+| **E-commerce Dashboard** | Interactive sales analytics dashboard visualizing KPIs and trends. | ![PowerBI](https://img.shields.io/badge/-PowerBI-black?logo=powerbi) | [Code](https://github.com/areebailyas4321-lab/ECOMMERCE_DASHBOARD) |
 
-*(You can add more projects here by editing this file)*
+---
+
+## 💼 Experience
+
+### Full Stack Development Trainee @ Capregsoft
+*Present*
+- Gaining hands-on experience with HTML, CSS, JavaScript, React, Node.js, and MySQL.
+- Building real-world projects to solidify Full Stack concepts.
+
+### Artificial Intelligence Course @ NAVTTC
+*Completed*
+- Completed comprehensive AI course covering ML and Deep Learning.
+- Developed an AI-powered malware detection system as a capstone project.
 
 ---
 
